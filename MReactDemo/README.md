@@ -19,7 +19,6 @@ Make sure you have NodeJS and npm installed.
 Install your dependencies
 
 >npm install
-Start your app for development
  
 Make sure to install gulp globally provides an gulp command for start react development server:
 >npm install gulp -g
