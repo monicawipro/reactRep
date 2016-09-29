@@ -9,7 +9,7 @@ module.exports = React.createClass({
        <div className="row"><img src={this.props.item.icon}></img></div>
             <div className="row padding-top20">{this.props.item.main}</div>
             <div className="row">{this.props.item.description}</div>
-            <div className="row">{this.props.item.tem} - {this.props.item.tem2} C|F</div>
+            <div className="row">{this.props.item.tem} - {this.props.item.tem2} °C|°F</div>
     
         </div>
     }
